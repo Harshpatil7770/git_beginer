@@ -1,0 +1,23 @@
+1) github login -->  create account
+2) repository   -    it's location wwhere we update out code in txt file.
+3) .gitigonre   -    some files you added but you don't want to move it
+                     into commit area, and that file get not tracked.
+4) GitHub Action--> 
+5) ls -ltra shows hiiden files 
+6) git init --initalize
+7) read colour - working area
+8) ../ to come back folder
+9) distributed version control system --> 
+10) central version systemm  --> directly working on central branch
+11) git add ((staging area or index area)
+12) git commit -m ""  //-m message
+13) git config --global user.email "hpatil@gmail.com"
+14) git config --global user.name "harshawardhanpatil"
+15) git log   --> showing 40 digit code  --> who commited this and when?
+16) default branch --> master
+17) before going to push we need to give address
+    git remote add origin
+18) git remote -v
+    (To check origin added or not)
+19) git cat >> file3.txt
+20)
