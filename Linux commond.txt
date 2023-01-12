@@ -1,0 +1,102 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                !!! Shree Swami Samarth !!!
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+1) Linux commond
+
+--------------------------------------------------------------------------
+
+1) pwd
+  
+
+  (present work directory)
+   
+
+2) cd foldername
+  
+  ( to go that folder)
+  
+  cd downloads
+  cd Desktops 
+
+3) ls 
+   
+ 
+4) ls -ltra
+   (shorting latest one)
+  
+  
+5) How to install httpd
+
+   A) yum install httpd
+   
+   B) systemctl enable httpd
+   
+   C) systemctl start httpd
+   
+   D) systemctl status httpd
+   
+   E)systemctl stop httpd
+   
+ 
+6) How to install nginx
+
+   A) yum install nginx
+   
+   B) systemctl enable nginx
+   
+   C) systemctl start nginx
+   
+   D) systemctl status nginx
+   
+   E) systemctl stop nginx
+   
+7) ls -lrt (sorted desc latest one)
+
+
+8) How to edit file on server 
+   
+   for eg - application.yml ,application.properties file
+   
+   first you need to open that as a vi format
+  
+   A) vi application.yml
+  
+   to edit that file you need to press Escape+i ( insert mode only up,down,left,right arrow will work)
+   B) Escape +i
+
+   to save our change 
+   C) Escape:wq!
+
+ 
+9) ctrl + c
+   
+   if you want  to exit form 
+
+
+10) top commond to make life long of putty session
+
+    top
+
+11) how to tell out logs
+
+
+   tail -100f logfile
+
+
+12) How to read file
+
+    lesss file.txt
+
+    cat file.txt
+
+
+
+
+   
