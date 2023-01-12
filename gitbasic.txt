@@ -22,4 +22,16 @@
 
 9) git push -u origin master 
 
+10) git log
+    (check who is commited that code and when)
+    git shows 40 digit commit id
 
+11) git config --global user.email "harshawardhanpatil@gmail.com"
+
+12) git config --global user.name "harshpatil"
+
+13) touch fil1.txt
+    to create file on folder
+
+14) cat >> file2.txt
+    to create file on folder
