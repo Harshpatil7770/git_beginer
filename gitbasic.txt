@@ -1,0 +1,25 @@
+1) GitHub login for new account
+
+2) Repository - path where we update our source code in a text format.
+
+3) git init  - (iniatize a folder as a git)
+
+4) git status - ( check the file in working area and staged area)
+    red colour shows in working area whereas green colour shows
+    staged area.
+
+5) git add .(for select all files)
+   git add file1 file2 (induvisual select purpose)
+
+6) git commit -m " git simple concepts "
+   ( -m gives message)
+
+7) git remote add origin repository_url
+   gives destination where you want to store
+
+8) git remote -v
+   check remote origin added or not
+
+9) git push -u origin master 
+
+
