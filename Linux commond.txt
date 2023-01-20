@@ -95,6 +95,11 @@
     lesss file.txt
 
     cat file.txt
+    
+    
+13) How to default configuration
+
+ ps -ef | grep tomcat
 
 
 
